@@ -1,4 +1,3 @@
-```markdown
 # ECS-DS-6-25
 
 Bu proje, DrMuratAltun tarafından geliştirilen ve çeşitli programlama dillerini içeren modüler kod örnekleri ile dolu bir repodur. Projede yer alan kodlar okunabilir, genişletilebilir ve yeniden kullanılabilir yapıda olup, farklı problemlerin çözümüne yönelik örnekler sunmaktadır.
@@ -31,4 +30,3 @@ Projeye katkıda bulunmak isteyenler lütfen bir pull request oluşturun. Yapıl
 ## Lisans
 
 Bu proje MIT Lisansı kapsamında lisanslanmıştır.
-```
