@@ -9,7 +9,7 @@ Bu proje, DrMuratAltun tarafından geliştirilen ve çeşitli programlama diller
 - **Nesne Yönelimli Yapılar:** Sınıf ve nesne kullanımları ile tasarlanmış modüler yapı.
 - **Veri İşleme:** Veri analizi ve veri işleme ile ilgili fonksiyon ve scriptler.
 - **API Entegrasyonları:** Dış sistemlerle iletişim sağlayan API bağlantı örnekleri.
-
+https://www.kaggle.com/code/drmurataltun/titanic-veri-g-rselle-tirme-ve-tahmin-modeli
 ## Kurulum
 
 Projeyi çalıştırmadan önce gerekli bağımlılıkları yükleyin:
